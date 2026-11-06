@@ -22,3 +22,4 @@ After day $d_1$, I completed $c^2$ practice tasks.
 $$
 p = \frac{c}{t} \times 100
 $$
+p is percent; c is change; t is time
