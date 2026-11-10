@@ -63,3 +63,9 @@ On GitHub, the same headings appear at different sizes and task markers become c
 ## License
 
 This project is distributed under the [MIT License](../LICENSE). Read the license for its permissions and conditions
+
+## Contributing
+Click the branch button and then the new branch to create a new branch.
+
+## Support
+View issues . Include the 
