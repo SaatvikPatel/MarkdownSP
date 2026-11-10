@@ -59,3 +59,7 @@ On GitHub, the same headings appear at different sizes and task markers become c
 | --- | --- |
 | [Journal](../day-1.md) | Daily plans, code samples, and learning metrics |
 | [Project README](README.md) | Setup and usage instructions |
+
+## License
+
+This project is distributed under the [MIT License](../LICENSE). Read the license for its permissions and conditions
