@@ -1,17 +1,22 @@
 # Markdown Learning Journal
 
-## Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Usage](#usage)
-
 ## Overview
-A learning journal for students practicing technical communication with GitHub Markdown. This repository serves as a central hub to track daily learning, document code snippets, and practice markdown formatting.
+
+A learning journal for students practicing technical communication with GitHub Markdown.
 
 ## Features
-- **Daily Logging:** Organize daily learning notes using clean markdown headings.
-- **Task Tracking:** Monitor practice goals using interactive checkboxes.
-- **Math Formatting:** Explain technical progress and formulas using mathematical expressions.
+
+- Organize daily learning with headings.
+- Track practice tasks with checkboxes.
+- Explain progress using mathematical expressions.
+
+## Contents
+
+- [Overview](#overview)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+
+## Installation
 
 ## Usage
-To use this journal, navigate to the `day-1.md` file in this repository. You can edit that file to update your daily notes, check off completed tasks, and add new code blocks as you learn.
