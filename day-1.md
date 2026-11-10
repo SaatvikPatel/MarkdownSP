@@ -17,7 +17,7 @@ ffmpeg -i input.mp4 -vf "negate,hue=h=180,eq=contrast=1.2:saturation=1.1" output
 ```
 ## Learning Metrics
 
-After day $d_1$, I completed $c^2$ practice tasks.
+After day $d_1$, I completed $c^2$ practice tasks. hh
 
 $$
 p = \frac{c}{t} \times 100
