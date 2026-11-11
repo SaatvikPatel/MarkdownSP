@@ -25,7 +25,7 @@ Use a web browser to read the journal on GitHub. For a local copy, install Git a
 Run these commands in a terminal to download this repository, then enter its folder:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/skills-communicate-using-markdown.git
+git clone https://github.com/SaatvikPatel/MarkdownSP.git
 cd skills-communicate-using-markdown
 ```
 
