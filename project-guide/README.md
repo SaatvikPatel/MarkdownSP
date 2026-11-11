@@ -71,3 +71,14 @@ To contribute to this project, create a new branch, make your changes, and submi
 ## Support
 
 If you need help or have questions, please check our [Github Issues page]([https://github.co](https://github.com/SaatvikPatel/MarkdownSP) to ask questions and report bugs.
+
+## Troubleshooting
+
+If you encounter a missing file error such as "cat: day-1.md: No such file or directory", ensure you have entered the cloned repository folder and verifies that the journal file exists on your selected branch.
+
+## Review checklist
+
+- [x] Confirmed the purpose, audience, and feature descriptions are accurate.
+- [x] Followed setup and usage instructions and compared the result.
+- [x] Tested Contents and file links and checked image alternative text.
+- [x] Verified contribution, support, and license information.
