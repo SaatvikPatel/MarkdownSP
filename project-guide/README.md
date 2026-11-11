@@ -65,7 +65,9 @@ On GitHub, the same headings appear at different sizes and task markers become c
 This project is distributed under the [MIT License](../LICENSE). Read the license for its permissions and conditions
 
 ## Contributing
-Click the branch button and then the new branch to create a new branch.
+
+To contribute to this project, create a new branch, make your changes, and submit a **pull request** for review.
 
 ## Support
-View issues . Include the 
+
+If you need help or have questions, please check our [Github Issues page]([https://github.co](https://github.com/SaatvikPatel/MarkdownSP) to ask questions and report bugs.
