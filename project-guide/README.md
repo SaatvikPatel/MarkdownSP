@@ -16,6 +16,7 @@ A learning journal for students practicing technical communication with GitHub M
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
+
 ## Prerequisites
 
 Use a web browser to read the journal on GitHub. For a local copy, install Git and a text editor. A GitHub account with repository access is required to contribute.
@@ -26,7 +27,7 @@ Run these commands in a terminal to download this repository, then enter its fol
 
 ```bash
 git clone https://github.com/SaatvikPatel/MarkdownSP.git
-cd skills-communicate-using-markdown
+cd MarkdownSP
 ```
 
 Open `day-1.md` in your editor to confirm the journal is present. No build or dependency installation is required.
@@ -70,11 +71,11 @@ To contribute to this project, create a new branch, make your changes, and submi
 
 ## Support
 
-If you need help or have questions, please check our [Github Issues page]([https://github.co](https://github.com/SaatvikPatel/MarkdownSP) to ask questions and report bugs.
+If you need help or have questions, please check the [GitHub Issues page](https://github.com/SaatvikPatel/MarkdownSP/issues) to ask questions and report bugs.
 
 ## Troubleshooting
 
-If you encounter a missing file error such as "cat: day-1.md: No such file or directory", ensure you have entered the cloned repository folder and verifies that the journal file exists on your selected branch.
+If you encounter a missing file error such as "cat: day-1.md: No such file or directory", make sure you have entered the cloned repository folder and verify that the journal file exists on your selected branch.
 
 ## Review checklist
 
