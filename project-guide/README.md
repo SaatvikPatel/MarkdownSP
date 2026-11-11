@@ -63,7 +63,7 @@ On GitHub, the same headings appear at different sizes and task markers become c
 
 ## License
 
-This project is distributed under the [MIT License](../LICENSE). Read the license for its permissions and conditions
+This project is distributed under the [MIT License](../LICENSE). Read the license for its permissions and conditions.
 
 ## Contributing
 
